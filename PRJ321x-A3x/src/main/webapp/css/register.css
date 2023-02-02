@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+
+
+.form-container a {
+	color: #fff;
+}
+
+.bg {
+	background: url('media/bg.jpg') no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+
+.form-container {
+	border: 0px solid #fff;
+	padding: 30px 40px;
+	margin-top: 10vh;
+	margin-bottom: 10vh;
+	-webkit-box-shadow: -1px 4px 26px 11px rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: -1px 4px 26px 11px rgba(0, 0, 0, 0.75);
+	box-shadow: -1px 4px 26px 11px rgba(0, 0, 0, 0.75);
+	color: #fff;
+}

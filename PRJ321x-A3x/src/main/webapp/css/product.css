@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+.product {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.product-title, .price {
+  text-transform: UPPERCASE;
+  font-weight: bold; }
+
+.price span {
+  color: #ff9f1a; }
+
+.product-title, .product-description, .price {
+  margin-bottom: 20px; }
+
+.product-title {
+  margin-top: 0; }
